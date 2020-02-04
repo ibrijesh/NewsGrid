@@ -8,13 +8,6 @@ const port = process.env.PORT || 3000;
 const app = express();
 
 
-const text = 'madrid';
-
-console.log(encodeURIComponent(text));
-
-console.log(encodeURI(text));
-
-
 // newsapi.v2.topHeadlines({
 // //sources: 'bbc-news,the-washington-post,time,cnn,new-york-magazine,vice-news,abc-news,cbs-news,the-washington-times,the-verge',
 //     q: 'madrid',
