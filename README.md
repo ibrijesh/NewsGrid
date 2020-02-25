@@ -1,2 +1,2 @@
 "# NewsGrid" 
-Website Live at https://brijesh-newsgrid.herokuapp.com/
+Webpage is  Live at https://brijesh-newsgrid.herokuapp.com/
